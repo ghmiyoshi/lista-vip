@@ -1,2 +1,2 @@
 # ListaVIP
-Curso de Spring Boot: Agilidade no desenvolvimento java com Spring
+Curso de Spring Boot: Agilidade no desenvolvimento Java
